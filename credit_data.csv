@@ -1,0 +1,6 @@
+Age,Income,Employment Status,Credit History,Loan Amount,Loan Term,Debt-to-Income Ratio,Existing Debts,Number of Credit Accounts,Late Payment Records,Creditworthiness
+25,50000,Employed,Good,20000,5,0.2,5000,3,0,1
+45,60000,Self-Employed,Poor,30000,10,0.5,10000,5,3,0
+35,80000,Employed,Good,10000,2,0.1,2000,7,1,1
+50,70000,Unemployed,Good,5000,3,0.3,3000,4,0,1
+30,55000,Employed,Average,15000,4,0.25,4000,2,2,1
