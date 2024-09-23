@@ -1,22 +1,23 @@
-Objective
+<h3>Objective</h3>
 The goal of this project is to develop a credit scoring model that predicts the creditworthiness of individuals based on historical financial data using classification algorithms.
 
-Dataset
+#Dataset
 A sample dataset (credit_data.csv) was created with the following features:
 
-Age: Age of the individual.
-Income: Annual income.
-Employment Status: Employment type (e.g., Employed, Self-Employed, Unemployed).
-Credit History: Quality of credit history (e.g., Good, Average, Poor).
-Loan Amount: Requested loan amount.
-Loan Term: Duration of the loan.
-Debt-to-Income Ratio: Ratio of debt to income.
-Existing Debts: Total existing debts.
-Number of Credit Accounts: Total credit accounts held.
-Late Payment Records: Number of late payments in history.
-Creditworthiness: Target variable indicating creditworthiness (1 for approved, 0 for rejected).
-Methodology
-Data Preprocessing:
+#Age: Age of the individual.
+#Income: Annual income.
+#Employment Status: Employment type (e.g., Employed, Self-Employed, Unemployed).
+#Credit History: Quality of credit history (e.g., Good, Average, Poor).
+#Loan Amount: Requested loan amount.
+#Loan Term: Duration of the loan.
+#Debt-to-Income Ratio: Ratio of debt to income.
+#Existing Debts: Total existing debts.
+#Number of Credit Accounts: Total credit accounts held.
+#Late Payment Records: Number of late payments in history.
+#Creditworthiness: Target variable indicating creditworthiness (1 for approved, 0 for rejected).
+#Methodology
+
+<h4>Data Preprocessing:</h4>
 
 Load the dataset and handle missing values.
 Encode categorical variables (e.g., Employment Status and Credit History).
